@@ -19,6 +19,11 @@ def LDL_analysis(LDL_Level):
 def new_feature():
     pass
 
+def name_function():
+    first_name = "First name"
+    last_name = "Last name"
+    print(first_name, last_name)
+
 def cholesterol_analysis():
     print("cholesterol_analysis")
     HDLinput = input("Enter test result: ")
