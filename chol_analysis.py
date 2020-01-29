@@ -23,6 +23,7 @@ def name_function():
     first_name = "First name"
     last_name = "Last name"
     print(first_name, last_name)
+    pass
 
 def cholesterol_analysis():
     print("cholesterol_analysis")
