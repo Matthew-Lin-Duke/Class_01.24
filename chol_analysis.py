@@ -16,6 +16,8 @@ def LDL_analysis(LDL_Level):
     else:
         return "Very High"
 
+def new_feature():
+    pass
 
 def cholesterol_analysis():
     print("cholesterol_analysis")
